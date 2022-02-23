@@ -1,4 +1,4 @@
-package com.bharath.product.dao;
+package com.nandini.product.dao;
 
 import java.util.HashMap;
 import java.util.Map;
